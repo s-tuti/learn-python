@@ -12,9 +12,6 @@ This document outlines the contributions made by @s-tuti to the project under GS
 - **Issue Number**: #979
 - **Status**: Closed
 - **Opened By**: @s-tuti
-- **Date Opened**: 2 weeks ago
-- **Comments**: 0
-- **May be fixed by**: #1080
 
 ### Comments by @s-tuti
 
@@ -28,26 +25,12 @@ This document outlines the contributions made by @s-tuti to the project under GS
 
 Requested assignment of the issue under GSSoC'24 to @animator.
 
-### PR Description
-
-- **Created**: `Prefix-Matching.md` file
-- **Added**: Introduction and examples for prefix matching.
-- **Code Implementation**:
-  - Prefix matching in Trie.
-  - Prefix matching in Hash Table with a comparison of time and space efficiency.
-- **Updated**: `index.md` file to include the new content.
-
-### Related Issues
-
-- **Closes**: Add Prefix Matching in Trie Section #979
-
 ### Pull Request Details
 
-- **Pull Request Number**: #1080
-- **Branch**: `patch-1`
-- **Commits**: 4
-- **Files Changed**: 2
-- **Changes**: +271 −1
+- **Pull Request Number**: #1288
+- **Branch**: `patch-4`
+- **Commits**: 1
+- **Files Changed**: 1
 
 ---
 
@@ -59,11 +42,6 @@ Requested assignment of the issue under GSSoC'24 to @animator.
 - **Issue Number**: #1090
 - **Status**: Open
 - **Opened By**: @s-tuti
-- **Date Opened**: Last week
-- **Comments**: 0
-- **May be fixed by**: #1130
-
-### Comments by @s-tuti
 
 #### Content Addition
 
@@ -78,26 +56,12 @@ Requested assignment of the issue under GSSoC'24 to @animator.
 
 Requested assignment of the issue under GSSoC'24 to @animator.
 
-### PR Description
-
-- **Added Content and Code**:
-  - String Edit Distance Problem
-  - Matrix Chain Multiplication
-  - Optimal Binary Search Tree
-- **Updated**: `dynamic-programming.md` file with new examples.
-
-### Related Issues
-
-- **Closes**: Add More Examples In Dynamic Programming Section #1090
-
 ### Pull Request Details
 
-- **Pull Request Number**: #1130
-- **Branch**: `patch-2`
+- **Pull Request Number**: #1287
+- **Branch**: `patch-3`
 - **Commits**: 1
 - **Files Changed**: 1
-- **Changes**: +199 −1
-
 ---
 
 These contributions significantly enhance the project by adding valuable content and improving the overall documentation and functionality.
